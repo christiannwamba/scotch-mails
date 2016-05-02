@@ -38,8 +38,11 @@
     <body>
         <div class="container">
             <div class="content">
+<<<<<<< HEAD
                 <div class="title">Laravel 9</div>
-
+=======
+                <div class="title">Laravel 7</div>
+>>>>>>> 7aa82ac8f2bd21314dd315af8697ae55da191dae
             </div>
         </div>
     </body>
